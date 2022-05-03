@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Felipe Silva!
  - 👨‍💻 Estou atualmente trabalhando com administração de caixa.
- - 📚 Estudando Python 3
+ - 📚 Estudando Python 3.
  
  ##
  
