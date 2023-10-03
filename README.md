@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Felipe Silva!
- - 👨‍💻 Estou atualmente trabalhando com administração de caixa.
- - 📚 Estudando Python 3.
+ - 👨‍💻 Estou atualmente trabalhando como professor de informática pela CENTEC.
+ - 📚 Estudando arquitetura e infraestrutura de T.I. pela Educa Alves.
  
  ##
  
