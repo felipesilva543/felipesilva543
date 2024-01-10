@@ -1,5 +1,5 @@
 ### Ola! Eu sou o Felipe Silva!
- - 👨‍💻 Estou atualmente trabalhando como educador do ensino médio/técnico profissionalizante pela <a href = "https://www.centec.org.br" CENTEC. </a>
+ - 👨‍💻 Estou atualmente trabalhando como educador do ensino médio/técnico profissionalizante pela <a href = "https://www.centec.org.br"> CENTEC. </a>
  
  ##
  
