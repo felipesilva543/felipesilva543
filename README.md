@@ -1,6 +1,5 @@
 ### Ola! Eu sou o Felipe Silva!
  - 👨‍💻 Estou atualmente trabalhando como professor de informática pela CENTEC.
- - 📚 Estudando arquitetura e infraestrutura de T.I. pela Educa Alves.
  
  ##
  
